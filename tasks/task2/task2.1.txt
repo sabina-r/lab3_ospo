@@ -1,0 +1,11 @@
+<script>
+function min(a,b) {
+if (a<b) {
+return a;
+} else {
+return b;
+}
+}
+var minOUT = min (100,50)
+alert(minOUT);
+</script>

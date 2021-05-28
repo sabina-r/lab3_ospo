@@ -1,0 +1,18 @@
+#background{
+	position:absolute;
+	left: 17%;
+	width: 83%;
+	height: 100%;
+	z-index: -1;
+}
+.my-button:hover{
+	color:red;
+}
+form{
+	margin-top:5%;
+	color:gray;
+}
+.stroke {
+    font: 2em Arial, sans-serif;
+    text-shadow: #FC0 1px 10 px;;
+}
